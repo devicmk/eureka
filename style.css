@@ -246,18 +246,22 @@ section#home a {
 
 section#about {
   background-color: var(--navColor2);
+  text-align: center;
 }
 
 section#skills {
   background-color: var(--navColor3);
+  text-align: center;
 }
 
 section#projects {
   background-color: var(--navColor4);
+  text-align: center;
 }
 
 section#contact {
   background-color: var(--navColor5);
+  text-align: center;
 }
 
 /* Media Query: Large Smartphone (Vertical) */
@@ -265,6 +269,7 @@ section#contact {
   section#home a {
     top: 1rem;
     left: 1rem;
+
   }
 
   .menu-bars {
